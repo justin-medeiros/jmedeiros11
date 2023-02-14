@@ -9,22 +9,16 @@
   </a>
 </div>
 
-## About me 😄
-I am a developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University. I love to code and learn new technology to incorportate into my projects. When I am not programming, I love sports. I'm a huge football(soccer) fan so with that being said... Ronaldo > Messi :)
+<div id="header" align="center">
+  <h1>Developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University</h1>
+</div>
 
 ## I'm currently working on 🔭
-* ServiceIT - a web application that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
-  * <p align="left">
-        <span style="display: inline-block;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="20" height="20" style="fill: white;"/>
-        </span>
-        <span style="display: inline-block; background-color: white">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="20"height="20/>
-        </span>
-        <span style="display: inline-block;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="20" eight="20">
-        </span>
-      </p>
+* ServiceIT - a web application using React.js and Typecript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
+* k9dogs.ca - revamping a website that broadcasts german shepherds
+* Expanding my knowledge in full stack by creating web API's using Node.js
+
+## My Favorite Tools 🔭
 
 <!--
 **jmedeiros11/jmedeiros11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
