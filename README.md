@@ -15,12 +15,17 @@
   </div>
 </div>
 
-## 💻 I'm currently working on 
+## 🔭 I'm currently working on 
 * ServiceIT - a web application using React.js and Typecript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
 * k9dogs.ca - revamping a website that broadcasts german shepherds
 * Expanding my knowledge in full stack by creating web API's using Node.js
 
-## My Favorite Tools 🔭
+## 💻 My Favorite Tech 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <!--
 **jmedeiros11/jmedeiros11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
