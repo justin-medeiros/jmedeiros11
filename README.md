@@ -1,7 +1,9 @@
-## Hey there! I'm Justin👋
+<div style="text-align: center;">
+  <h2>Hey there! I'm Justin👋</h2>
+</div>
 
 <div id="header" align="center">
-  <h3>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h1>
+  <h3>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h3>
 </div>
 
 ## 💻 I'm currently working on 
