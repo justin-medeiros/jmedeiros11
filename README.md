@@ -23,7 +23,7 @@
 ## 💻 My Favorite Tech 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python, java, javascript, git, react, node, express, html, css, kotlin, swift, c, docker" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,git,react,nodejs,express,html,css,kotlin,swift,c,sql,mysql,docker,firebase,vscode,bitbucket,github" />
   </a>
 </p>
 
