@@ -6,9 +6,9 @@
   <h3>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h3>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" style="display: flex; align-items: center; justify-content: center;">
+  <p style="margin-right: 10px;">Connect with me!</p>
   <a href="https://www.linkedin.com/in/justin-medeiros-016a38223/">
-    <p>Connect with me! </p>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
