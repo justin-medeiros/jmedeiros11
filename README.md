@@ -21,9 +21,9 @@
 * Expanding my knowledge in full stack by creating web API's using Node.js
 
 ## 💻 My Favorite Tech 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python, java, javascript, git, react, node, express, html, css, kotlin, swift, c, docker" />
   </a>
 </p>
 
