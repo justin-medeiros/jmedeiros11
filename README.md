@@ -6,7 +6,7 @@
   <h3>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h3>
 </div>
   
-<div id="badges" align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column; width: 100%;">
+<div id="badges" align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: row; width: 100%;">
   <p style="margin-right: 10px; display: inline-block;">Connect with me!</p>
   <p style="margin-right: 10px; display: inline-block;">Connect with me!</p>
 </div>
