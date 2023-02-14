@@ -8,9 +8,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-## About me
+
+## About me 😄
 I am a developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University.
 
+## I'm currently working on 🔭
+* ServiceIT - a web application that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
+** Test
 
 <!--
 **jmedeiros11/jmedeiros11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
