@@ -14,6 +14,15 @@
     </a>
   </div>
 </div>
+  
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+  <div id="badges" style="display: flex; align-items: center; justify-content: center;">
+    <p style="margin-right: 10px;">Connect with me!</p>
+    <a href="https://www.linkedin.com/in/justin-medeiros-016a38223/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 
 ## 🔭 I'm currently working on 
 * ServiceIT - a web application using React.js and Typecript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
