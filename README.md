@@ -4,6 +4,10 @@
 
 ### hey there! 👋
 
+##About me
+My name is Justin and I am a developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University.
+
+
 <!--
 **jmedeiros11/jmedeiros11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
