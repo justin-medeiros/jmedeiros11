@@ -20,7 +20,7 @@
 * k9dogs.ca - revamping a website that broadcasts german shepherds
 * Expanding my knowledge in full stack by creating web API's using Node.js
 
-## 💻 My Favorite Tech 
+## 💻 Technologies 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,ts,git,react,nodejs,express,html,css,kotlin,swift,c,sql,mysql,docker,firebase,vscode,bitbucket,github" />
