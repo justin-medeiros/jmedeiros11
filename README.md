@@ -14,15 +14,15 @@ I am a developer currently finishing my third year of the Honours Bachelor of Sc
 
 ## I'm currently working on 🔭
 * ServiceIT - a web application that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
-  * <p align="left">
+  * Using: <p align="left">
         <span style="display: inline-block;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="24" height="24" style="fill: white;"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20" style="fill: white;"/>
         </span>
         <span style="display: inline-block; background-color: white">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="24" height="24"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="20"height="20/>
         </span>
         <span style="display: inline-block;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="24" height="24"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="20" eight="20">
         </span>
       </p>
 
