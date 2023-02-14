@@ -8,9 +8,8 @@
   
 <div id="badges" style="display: flex; align-items: center; justify-content: center; flex-direction: column; width: 100%;">
   <p style="margin-right: 10px;">Connect with me!</p>
-  <a href="https://www.linkedin.com/in/justin-medeiros-016a38223/">
-    <img style="display: inline-block;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <p style="margin-right: 10px;">Connect with me!</p>
+
 </div>
 
 ## 🔭 I'm currently working on 
