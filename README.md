@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <h3>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h3>
+  <h4>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h4>
 </div>
   
 <div align="center">
