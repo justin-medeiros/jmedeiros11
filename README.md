@@ -10,7 +10,7 @@
 </div>
 
 <div id="header" align="center">
-  <h1>Developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University</h1>
+  <h3>Developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University</h1>
 </div>
 
 ## I'm currently working on 🔭
