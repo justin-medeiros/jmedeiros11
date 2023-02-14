@@ -17,7 +17,7 @@
 ## 🔭 I'm currently working on 
 * ServiceIT - a web application using React.js and Typecript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
 * k9dogs.ca - revamping a website that broadcasts german shepherds
-* Expanding my knowledge in full stack by creating web API's using Node.js
+* Expanding my knowledge in full stack by creating web API's using Express.js
 
 ## 💻 Technologies 
 <p align="left">
