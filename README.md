@@ -14,7 +14,7 @@ I am a developer currently finishing my third year of the Honours Bachelor of Sc
 
 ## I'm currently working on 🔭
 * ServiceIT - a web application that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
-** Test
+  * Using: React.js, Node.js, Express.js, HTML, CSS, Firebase
 
 <!--
 **jmedeiros11/jmedeiros11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
