@@ -18,7 +18,7 @@ I am a developer currently finishing my third year of the Honours Bachelor of Sc
         <span style="display: inline-block;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
         </span>
-        <span style="display: inline-block;">
+        <span style="display: inline-block; background-color: white">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
         </span>
         <span style="display: inline-block;">
