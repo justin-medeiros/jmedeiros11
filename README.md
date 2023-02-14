@@ -2,16 +2,14 @@
   <h2>Hey there! I'm Justin👋</h2>
 </div>
 
-<div id="badges" align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column; width: 100%;">
-  <p style="margin-right: 10px;">Connect with me!</p>
-  <p style="margin-right: 10px;">Connect with me!</p>
-</div>
-
 <div id="header" align="center">
   <h3>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h3>
 </div>
   
-
+<div id="badges" align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: column; width: 100%;">
+  <p style="margin-right: 10px; display: inline-block;">Connect with me!</p>
+  <p style="margin-right: 10px; display: inline-block;">Connect with me!</p>
+</div>
 
 ## 🔭 I'm currently working on 
 * ServiceIT - a web application using React.js and Typecript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
