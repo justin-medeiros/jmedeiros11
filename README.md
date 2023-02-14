@@ -10,10 +10,10 @@
 </div>
 
 <div id="header" align="center">
-  <h3>Developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University</h1>
+  <h3>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h1>
 </div>
 
-## I'm currently working on 🔭
+## 💻 I'm currently working on 
 * ServiceIT - a web application using React.js and Typecript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
 * k9dogs.ca - revamping a website that broadcasts german shepherds
 * Expanding my knowledge in full stack by creating web API's using Node.js
