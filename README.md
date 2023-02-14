@@ -1,15 +1,6 @@
 ## Hey there! I'm Justin👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="400"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/justin-medeiros-016a38223/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<div id="header" align="center">
   <h3>A developer currently finishing my third year of Computer Science BSc at Wilfrid Laurier University</h1>
 </div>
 
