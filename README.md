@@ -10,7 +10,7 @@
 </div>
 
 ## About me 😄
-I am a developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University.
+I am a developer currently finishing my third year of the Honours Bachelor of Science in Computer Science at Wilfrid Laurier University. I love to code and learn new technology to incorportate into my projects. When I am not programming, I love sports. I'm a huge football(soccer) fan so with that being said... Ronaldo > Messi :)
 
 ## I'm currently working on 🔭
 * ServiceIT - a web application that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
