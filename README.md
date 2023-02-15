@@ -22,7 +22,7 @@
 ## 💻 Technologies 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,git,react,nodejs,express,html,css,kotlin,swift,c,mysql,docker,firebase,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,git,react,nodejs,express,html,css,kotlin,swift,c,php,mysql,docker,firebase,vscode,github" />
   </a>
 </p>
 
