@@ -15,14 +15,14 @@
 </div>
 
 ## 🔭 I'm currently working on 
-* ServiceIT - a web application using React.js and Typecript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
-* k9dogs.ca - revamping a website that broadcasts german shepherds
+* ServiceIT - a web application using React.js and Typescript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
+* k9dogs.ca - revamping a website that displays german shepherds
 * Expanding my knowledge in full stack by creating web API's using Express.js
 
 ## 💻 Technologies 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,git,react,nodejs,express,html,css,kotlin,swift,c,php,mysql,docker,firebase,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,git,react,nodejs,express,html,css,kotlin,swift,c,php,mysql,docker,firebase,vscode,github,vite" />
   </a>
 </p>
 
