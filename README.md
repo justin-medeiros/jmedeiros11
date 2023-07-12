@@ -16,7 +16,7 @@
 
 ## 🔭 I'm currently working on 
 * ServiceIT - a web application using React.js and Typescript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
-* k9dogs.ca - revamping a website that displays german shepherds
+* FitDrop - An app that allows users to show off their style. Coming soon! [Click here to join the waitlist!](https://www.fitdrop.pro/)
 * Expanding my knowledge in full stack by creating web API's using Express.js
 
 ## 💻 Technologies 
