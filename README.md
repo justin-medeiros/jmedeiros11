@@ -4,7 +4,6 @@
 
 <div id="header" align="center">
   <h4>A full stack developer currently starting my fourth year of Computer Science BSc at Wilfrid Laurier University</h4>
-  <h4>Currently working @ WSIB Innvoation Lab as a Full Stack Developer Intern</h4>
 </div>
   
 <div align="center">
@@ -23,7 +22,7 @@
 ## 💻 Technologies 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,git,react,nodejs,express,html,css,tailwind,kotlin,swift,c,php,mysql,docker,azure,firebase,vite,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,git,react,nodejs,express,html,css,tailwind,kotlin,swift,c,php,mysql,docker,azure,aws,firebase,vite,vscode,github" />
   </a>
 </p>
 
