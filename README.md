@@ -16,7 +16,7 @@
 
 ## 🔭 I'm currently working on 
 * ServiceIT - a web application using React.js and Typescript that helps service companies track customer tickets, assign tickets to employees, and generate automated invoices for customers.
-* FitDrop - An app that allows users to show off their style. Coming soon! [Click here to join the waitlist!](https://www.fitdrop.pro/)
+* FitDrop - An app that allows users to show off their style. We have deployed the app to 30,000+ users! [Click here to check out the repo to download today!](https://github.com/Fitdrop)
 * Expanding my knowledge in full stack by creating web API's using Express.js
 
 ## 💻 Technologies 
